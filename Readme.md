@@ -17,4 +17,4 @@
 
 ## Visit Website Here
 
-[Corona Case Meter](https://aks32216.github.io/Corona-Virus-Cases/)
+[Corona Case Meter](https://santosh1228.github.io/Cases-of-Covid19/)
