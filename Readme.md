@@ -12,8 +12,7 @@
 
 
 ## Example 
-![Screenshot from 2022-07-15 01-15-25](https://user-images.githubusercontent.com/56152715/179070200-f2ffa672-3f9e-45fd-ac59-8cb0a5cfab3f.png)
-
+![WhatsApp Image 2022-08-05 at 12 34 20 AM](https://user-images.githubusercontent.com/110627253/182932955-86b4cbd1-02c8-4efc-ba7c-e857f8a02208.jpeg)
 
 ## Visit Website Here
 
