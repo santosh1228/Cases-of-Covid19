@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans&family=Zilla+Slab:ital,wght@1,300&display=swap');
+/* font-family: 'Josefin Sans', sans-serif;
+font-family: 'Zilla Slab', serif; */
+
+body{
+  padding: 0;
+  margin: 0;
+  font-family: 'Zilla Slab', serif;
+
+}
+
+.header{
+  background-color: #5C7AEA;
+  margin: 5rem 20rem 5rem 20rem;
+  color: #000;
+}
+
+.heading-text{
+  margin-bottom: 2rem;
+}
+
+.input-box{
+  width: 60%;
+  padding: 5px;
+  margin: 0px;
+  border-radius: 3px;
+}
+
+
+
+#button{
+  color: #fff;
+}
+
+.Display{
+  font-size: 2rem;
+}
+
+.table{
+  background-color: #5C7AEA;
+  margin: auto;
+  width: 70%;
+  font-weight: bolder;
+}
+
+.table-data{
+
+}
